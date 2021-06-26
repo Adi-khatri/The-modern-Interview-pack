@@ -1,11 +1,22 @@
 
-An interface to improve video interview experience.. 
 
-# Description
+## API Reference
 
+#### API
+
+```http
+ https://api.github.com
+```
+
+
+ Used Name, description, and html_url keys from each object within the data array.
+
+## Statement
+.
+.
+## Description
 This is an integrated interface to facilitate remote interviews for recruiters so that the interviewees can showcase their skills more effectively.
 
-**Checkout the live website [here]()**
 
 Features offered by . . .
 
@@ -30,9 +41,55 @@ Features offered by . . .
 ### Quiz ##
 -Additional feature testing basic 
 
+ 
+## Demo
 
-### Contributors ##
--<a href="https://github.com/Adi-khatri">Aditi</a>
--<a href="https://github.com/Anchal1226">Anchal</a>
--<a href="https://github.com/devanshpratapsingh">Devansh</a>
--<a href="https://github.com/rishitsaraf">Rishit</a>
+Insert gif or link to demo
+
+  
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+  
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+  
+  
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+  
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+  
+
+## Authors
+
+- [Aditi ](https://github.com/Adi-khatri)
+- [Anchal ](https://github.com/Anchal1226)
+- [Devansh ](https://github.com/devanshpratapsingh)
+- [Rishit ](github.com/rishitsaraf)
+
+
+  
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+
