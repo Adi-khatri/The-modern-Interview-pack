@@ -32,7 +32,7 @@ Features offered by . . .
 
 
 ### Contributors ##
--Aditi
--Anchal
--Devansh
--Rishit
+-<a href="https://github.com/Adi-khatri">Aditi</a>
+-<a href="https://github.com/Anchal1226">Anchal</a>
+-<a href="https://github.com/devanshpratapsingh">Devansh</a>
+-<a href="https://github.com/rishitsaraf">Rishit</a>
