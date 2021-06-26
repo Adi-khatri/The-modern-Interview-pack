@@ -100,8 +100,8 @@ submit.addEventListener('click', () =>
     }else{
 
         showScore.innerHTML = `
-        <h3> You scored ${score}/${quizDB.length} ✌️ </h3>
-        <button class = "btn" onclick="location.reload()"> Play Again </button>
+        <h3 > You scored ${score}/${quizDB.length} ✌️ </h3>
+        <button class = "btn newbutton" onclick="location.reload()"> <font style="color:white;">Start Again </button>
         `;
         showScore.classList.remove('scoreArea');
         
