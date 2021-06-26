@@ -7,7 +7,7 @@ This is an integrated interface to facilitate remote interviews for recruiters s
 
 **Checkout the live website [here]()**
 
-Features offered by REMO
+Features offered by . . .
 
 ### A audio-video interface ###
 - Implemented using webRTC
@@ -32,3 +32,7 @@ Features offered by REMO
 
 
 ## Contributors ##
+-Aditi
+-Anchal
+-Devansh
+-Rishit
