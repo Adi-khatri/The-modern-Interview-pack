@@ -8,36 +8,35 @@
     <title>Notes App</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link href="./styles.css" rel="stylesheet" />
 </head>
 
-<body>
-
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Magic Notes</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
-
-            </ul>
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" id="searchTxt" type="search" placeholder="Search"
-                    aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
+<body style="background-color: hsl(206, 92%, 94%)">
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
+        <div class="container px-5">
+            <a class="navbar-brand fw-bold" href="../homepage/index.html">Inquisitor - The Modern Interview Pack</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                Menu
+                <i class="bi-list"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+                    
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" id="searchTxt" type="search" placeholder="Search"
+                            aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                </ul>
+                
+            </div>
         </div>
     </nav>
-
-
+    <br><br><br>
     <div class="container my-3">
-        <h1>Hey! Put your "To-Do" Stick notes here :))</h1>
-        <div class="card">
+        <h3>Hey! Put your "To-Do" Stick notes here - </h3> <br>
+        <div style="border-radius: 15px;" class="card">
             <div class="card-body">
                 <h5 class="card-title">Add a note</h5>
                 <div class="form-group">
@@ -46,8 +45,8 @@
                 <button class="btn btn-primary" id="addBtn">Add Note</button>
             </div>
         </div>
-        <hr>
-        <h1>Your Notes</h1>
+         <br><br><br>
+        <h3>Your Notes</h3>
         <hr>
         <div id="notes" class="row container-fluid"> </div>
     </div>
