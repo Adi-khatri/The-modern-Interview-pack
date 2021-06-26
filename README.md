@@ -31,7 +31,7 @@ Features offered by . . .
 -Additional feature testing basic 
 
 
-## Contributors ##
+### Contributors ##
 -Aditi
 -Anchal
 -Devansh
