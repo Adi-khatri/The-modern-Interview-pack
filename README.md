@@ -58,23 +58,7 @@ Features offered by . . .
   
 ## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-  
-  
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
+<a href = "https://inquisitor.netlify.app/"> <h2>Visit Inquisitor Here </h2></a>
 
   
 ## Challanges Faced
