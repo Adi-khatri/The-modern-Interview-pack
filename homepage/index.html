@@ -16,6 +16,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -30,7 +31,7 @@
                     <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#features">Features</a></li>
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#team">Team</a></li>
-                        <li class="nav-item"><a class="nav-link me-lg-3" href="#download">Feedback</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3" href="#feedback">Feedback</a></li>
                     </ul>
                     
                 </div>
@@ -81,10 +82,10 @@
                                 <div class="col-md-5 mb-5 card">
                                     <!-- Feature item-->
                                     <div class="text-center">
-                                        <a href="">
+                                        <a href="../video/video.html">
                                         <i class="bi-phone icon-feature text-gradient d-block mb-3"></i>
                                         <h3 class="font-alt">Video Conferencing</h3>
-                                        <p class="text-muted mb-0">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
+                                        <p class="text-muted mb-5">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
                                         </a>
                                     </div>
                                 </div>
@@ -96,7 +97,7 @@
                                         <a href="../Editor/editor.html">
                                             <i class="bi-camera icon-feature text-gradient d-block mb-3"></i>
                                             <h3 class="font-alt">Code Editor</h3>
-                                            <p class="text-muted mb-0">Put an image, video, animation, or anything else in the screen!</p>
+                                            <p class="text-muted mb-5">Put an image, video, animation, or anything else in the screen!</p>
                                         </a>
                                     </div>
                                 </div>
@@ -110,7 +111,7 @@
                                         <a href="../board/board.html">
                                             <i class="bi-gift icon-feature text-gradient d-block mb-3"></i>
                                         <h3 class="font-alt">White Board</h3>
-                                        <p class="text-muted mb-0">As always, this theme is free to download and use for any purpose!</p>
+                                        <p class="text-muted mb-5">As always, this theme is free to download and use for any purpose!</p>
                                         </a>
                                     </div>
                                 </div>
@@ -121,7 +122,7 @@
                                         <a href="../notes/index.html">
                                             <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                             <h3 class="font-alt">Note Taking</h3>
-                                            <p class="text-muted mb-0">Since this theme is MIT licensed, you can use it commercially!</p>
+                                            <p class="text-muted mb-5">Since this theme is MIT licensed, you can use it commercially!</p>
                                         </a>
                                        
                                     </div>
@@ -137,7 +138,7 @@
                                         <a href="../git/index.html">
                                             <i class="bi-gift icon-feature text-gradient d-block mb-3"></i>
                                         <h3 class="font-alt">Git</h3>
-                                        <p class="text-muted mb-0">As always, this theme is free to download and use for any purpose!</p>
+                                        <p class="text-muted mb-5">As always, this theme is free to download and use for any purpose!</p>
                                         </a>
                                     </div>
                                 </div>
@@ -150,7 +151,7 @@
                                         <a href="../quiz/index.html">
                                             <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                             <h3 class="font-alt">Quiz</h3>
-                                            <p class="text-muted mb-0">Since this theme is MIT licensed, you can use it commercially!</p>
+                                            <p class="text-muted mb-5">Since this theme is MIT licensed, you can use it commercially!</p>
                                         </a>
                                        
                                     </div>
@@ -235,13 +236,27 @@
             </div>
         </section>
         <!-- Call to action section-->
-        <section class="cta">
+        <section class="cta" id="feedback">
             <div class="cta-content">
                 <div class="container px-5">
                     <h2 class="text-white display-1 lh-1 mb-4">
                         We Appreciate Feedbacks
                     </h2>
-                    <!--form here-->
+                    <form>
+                        <div class="form-group">
+                          <label for="exampleFormControlInput1">Email address</label>
+                          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        </div>
+                        <div class="form-group">
+                          <label for="exampleFormControlSelect1">Example select</label>
+                          <select class="form-control" id="exampleFormControlSelect1">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                          </select> 
+                    </form>
                 </div>
             </div>
         </section>
