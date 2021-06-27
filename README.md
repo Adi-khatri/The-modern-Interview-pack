@@ -78,8 +78,8 @@ function App() {
 
   
 ## Challanges Faced
-<ul>Integrating Video conferencing without an API.</ul>
-<ul>Creating writeboard, note taking, quiz and git features from scratch.</ul>
+- Integrating Video conferencing without an API.
+- Creating writeboard, note taking, quiz and git features from scratch.
   
 
 ## Authors
