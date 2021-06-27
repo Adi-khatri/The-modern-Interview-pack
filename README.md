@@ -12,8 +12,7 @@
  Used Name, description, and html_url keys from each object within the data array.
 
 ## Statement
-.
-.
+Inquisitor is complete recruitment software made for fast tracking the work of recruiters. Inquisitor comes with various features in a single place to ease the process of recruitments. Inquisitor brings everything at recruiter's fingertips without opening multiple windows.
 ## Description
 This is an integrated interface to facilitate remote interviews for recruiters so that the interviewees can showcase their skills more effectively.
 
