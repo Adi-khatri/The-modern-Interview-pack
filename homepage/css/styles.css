@@ -36,7 +36,21 @@
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
-
+.main-form{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+}
+.lable1{
+  font-size: 20px;
+  color: white;
+  padding-bottom: 15px;
+}
+.lable2{
+  font-size: 20px;
+  color: white;
+  padding-bottom: 15px;
+}
 .card {
   border:  #6610f2 !important;
   border-width: 15px;

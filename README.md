@@ -15,7 +15,7 @@
 .
 .
 ## Description
-This is an integrated interface to facilitate remote interviews for recruiters so that the interviewers can showcase their skills more effectively.
+This is an integrated interface to facilitate remote interviews for recruiters so that the interviewees can showcase their skills more effectively.
 
 
 Features offered by . . .
@@ -39,8 +39,7 @@ Features offered by . . .
 - For storing important information
 
 ### Quiz ##
-- Implemented using java script
-- Additional feature for testing basic 
+-Additional feature testing basic 
 
  
 ## Demo
