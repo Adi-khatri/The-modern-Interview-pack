@@ -77,10 +77,9 @@ function App() {
 ```
 
   
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
+## Challanges Faced
+<ul>Integrating Video conferencing without an API.</ul>
+<ul>Creating writeboard, note taking, quiz and git features from scratch.</ul>
   
 
 ## Authors
