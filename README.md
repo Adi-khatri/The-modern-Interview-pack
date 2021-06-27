@@ -48,11 +48,11 @@ Insert gif or link to demo
   
 ## Screenshots
 
-<img src="images_/1.png" height="180px" width="360px" align="middle"></img>
-<img src="images_/2.png" height="180px" width="360px" align="middle"></img>
-<img src="images_/3.png" height="180px" width="360px" align="middle"></img>
-<img src="images_/4.png" height="180px" width="360px" align="middle"></img>
-<img src="images_/5.png" height="180px" width="360px" align="middle"></img>
+<img src="images_/1.png" height="200px" width="340px" align="middle"></img><br>
+<img src="images_/2.png" height="180px" width="360px" align="middle"></img><br>
+<img src="images_/3.png" height="180px" width="360px" align="middle"></img><br>
+<img src="images_/4.png" height="180px" width="360px" align="middle"></img><br>
+<img src="images_/5.png" height="180px" width="360px" align="middle"></img><br>
 
 
   
